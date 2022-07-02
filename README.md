@@ -5,12 +5,12 @@
 - 💞️ I’m ambisious to contribute my part in the deveopment of planet.
 - 📫 Reach me at mfahimasim@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masterEye-07)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masterEye-07&show_icons=true&theme=radical)
 
 ### Hi there 👋, Assalmu Alaikum 👋 I'm Muhammad Fahim Asim
 #### Blockchain Developer
-![Blockchain Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Blockchain Developer](https://pbs.twimg.com/profile_banners/905874585568071681/1583644384/600x200)
 
 Human beng
 
