@@ -1,13 +1,10 @@
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masterEye-07&show_icons=true&theme=radical)
-
 ### Assalmu Alaikum 👋 I'm Muhammad Fahim Asim
 #### Blockchain Developer
 ![Blockchain Developer](https://github.com/masterEye-07/masterEye-07/blob/main/gitBanner.jpeg)
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: C / C++ / android / Firebase / Cadence / Flow Blockchain
 
 - 🔭 I’m currently working on Flow Blockchain 
 - 💬 Ask me about Blockchain 
