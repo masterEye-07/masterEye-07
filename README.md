@@ -1,5 +1,5 @@
-![Blockchain Developer](https://github.com/masterEye-07/masterEye-07/blob/main/gitBanner.jpeg)
-https://github.com/masterEye-07/masterEye-07/blob/main/Untitled%20design.png
+![Blockchain Developer](https://github.com/masterEye-07/masterEye-07/blob/main/Untitled%20design.png)
+
 ### Assalamu Alaikum reader 👋 I'm Muhammad Fahim Asim
 #### Blockchain Developer
 
