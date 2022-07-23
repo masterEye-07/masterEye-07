@@ -7,7 +7,7 @@ I am a problem solver who always thinks about how to solve real-life problems us
 This is my CV which was last updated on `23-Jan-2022`.
 
 ### Blockchain
- <img src="./images/blockchains.png" alt="Blockchain" /> 
+ <img src="./images/flow.png" alt="Blockchain" /> 
  
 ### Platforms and Framworks
  <img src="./images/framwworks.png" alt="Frameworks" /> 
