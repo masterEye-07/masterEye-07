@@ -13,8 +13,6 @@ This is my CV which was last updated on `23-Jan-2022`.
 ### Platforms and Framworks
 
  <img src="./images/android.png" alt="Frameworks" /> 
- <img src="./images/react.png" alt="Frameworks" /> 
- <img src="./images/node.png" alt="Frameworks" /> 
  
 ### Programing Languages
  <img src="./images/languages.png" alt="Languages" /> 
