@@ -25,7 +25,8 @@ Web 3 enthusiast and fond to mark my traces in development and engineering field
 
 Feel free to reach out on the [LinkedIn](https://www.linkedin.com/in/muhammad-fahim-asim//) directly. And if not available, email me I'll contact you asap.!
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masterEye-07&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://activity-graph.herokuapp.com/graph?username=masterEye-07&theme=minimal)
+https://activity-graph.herokuapp.com/graph?username=masterEye-07&theme=minimal
 
 This is my CV which was last updated on `July 23rd, 2022`.
