@@ -10,10 +10,10 @@ Web 3 enthusiast and fond to mark my traces in development and engineering field
  
 ### Platforms and Framworks
 
- <img src="./images/android.png" alt="Frameworks" /> 
+ <img src="./images/myFrameWorks.png" alt="Frameworks" /> 
  
 ### Programing Languages
- <img src="./images/languages.png" alt="Languages" /> 
+ <img src="./images/myLanguages.png" alt="Languages" /> 
 
 Feel free to reach out on the [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/muhammad-fahim-asim//) directly. And if not available, email me I'll contact you asap.!
 
