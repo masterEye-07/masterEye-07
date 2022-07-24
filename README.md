@@ -8,7 +8,7 @@
 [![masterEye YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1l24J-W_-RmJ7pRPhAFl9w)
 [![masterEye Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/mfahimasim/)
 [![masterEye Pinterest](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/M-Fahim-Asim)
-[![masterEye Pinterest](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))](https://mail.google.com/mail/u/mfahimasim@gmail.com)
+[![masterEye Pinterest](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/mfahimasim@gmail.com)
 
 ### Assalamu Alaikum reader 👋 I'm Muhammad Fahim Asim
 Web 3 enthusiast and fond to mark my traces in development and engineering field of Blockchain. Being working with the Blockchain professionals, I learnt, practiced and developed smart contracts for Flow Blockchain with minimal front end and back end. I am a problem solver who always thinks about how to solve real-life problems using high-end technology. I am committed to making society free from problems by making every possible business with inherent features – Transparency, Incentivization & Decision-making rights.
