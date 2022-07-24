@@ -26,6 +26,6 @@ Web 3 enthusiast and fond to mark my traces in development and engineering field
 
 Feel free to reach out on the [LinkedIn](https://www.linkedin.com/in/muhammad-fahim-asim//) directly. And if not available, email me I'll contact you asap.!
 
-![masterEye GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masterEye-07&theme=vue)
+![masterEye GitHub stats](align="center" https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masterEye-07&theme=vue)
 
 This is my CV which was last updated on `July 23rd, 2022`.
