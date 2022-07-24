@@ -31,11 +31,11 @@ Feel free to reach out on the [LinkedIn](https://www.linkedin.com/in/muhammad-fa
 
 ![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=masterEye-07)
 ![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=masterEye-07)
-![Anurag's GitHub stats](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FmasterEye-071212%2Fhit-counter)
+![Anurag's GitHub stats](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusername=masterEye-071212%2Fhit-counter)
 
-![Anurag's GitHub stats](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FmasterEye-071212%2Fhit-counter)
+![Anurag's GitHub stats](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusername=masterEye-071212%2Fhit-counter)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=masterEye-07)
-![Anurag's GitHub stats](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FmasterEye-071212%2Fhit-counter)
+![Anurag's GitHub stats](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusername=masterEye-071212%2Fhit-counter)
 
 
 This is my CV which was last updated on `July 23rd, 2022`.
