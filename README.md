@@ -28,5 +28,5 @@ This is my CV which was last updated on `July 23rd, 2022`.
 [![ObjectPlayer Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sham-gir-2573b1170/)
 [![ObjectPlayer Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@ShamGir)
 [![ObjectPlayer Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/ShamGir#9676)
-[![ObjectPlayer Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/objectplayer@gmail.com)
+[![ObjectPlayer Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/mfahimasim@gmail.com)
 [![ObjectPlayer StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9515659/sham-gir)
