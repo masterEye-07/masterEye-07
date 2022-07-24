@@ -6,6 +6,9 @@
 [![masterEye Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mfahimasim/)
 [![masterEye Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sakhat_logics)
 [![masterEye YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1l24J-W_-RmJ7pRPhAFl9w)
+[![masterEye Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/mfahimasim/)
+[![masterEye Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)]
+(https://www.quora.com/profile/M-Fahim-Asim)
 [![masterEye Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/mfahimasim@gmail.com)
 
 ### Assalamu Alaikum reader 👋 I'm Muhammad Fahim Asim
@@ -26,6 +29,6 @@ Web 3 enthusiast and fond to mark my traces in development and engineering field
 
 Feel free to reach out on the [LinkedIn](https://www.linkedin.com/in/muhammad-fahim-asim//) directly. And if not available, email me I'll contact you asap.!
 
-![masterEye GitHub stats](align="center" https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masterEye-07&theme=vue)
+![masterEye GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masterEye-07&theme=vue)
 
 This is my CV which was last updated on `July 23rd, 2022`.
