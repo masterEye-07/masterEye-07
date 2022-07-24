@@ -16,18 +16,15 @@ Web 3 enthusiast and fond to mark my traces in development and engineering field
 ![masterEye GitHub stats](https://github-profile-trophy.vercel.app/?username=masterEye-07)
 
 ### Blockchain
-
  <img src="./images/flow.png" alt="Blockchain" /> 
  
 ### Platforms and Framworks
-
  <img src="./images/myFrameWorks.png" alt="Frameworks" /> 
  
 ### Programing Languages
  <img src="./images/myLanguages.png" alt="Languages" /> 
 
-Feel free to reach out on the [LinkedIn](https://www.linkedin.com/in/muhammad-fahim-asim//) directly. And if not available, email me I'll contact you asap.!
-
 ![masterEye GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masterEye-07&theme=vue)
 
+Feel free to reach me out on the [LinkedIn](https://www.linkedin.com/in/muhammad-fahim-asim//). And if not available, email me I'll contact you asap.!
 This is my CV which was last updated on `July 23rd, 2022`.
