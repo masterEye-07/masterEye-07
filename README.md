@@ -10,7 +10,8 @@
 [![masterEye Pinterest](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/M-Fahim-Asim)
 [![masterEye Pinterest](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/mfahimasim@gmail.com)
 
-### Assalamu Alaikum reader 👋 I'm Muhammad Fahim Asim
+
+### Assalamu Alaikum reader 👋 I'm Muhammad Fahim Asim (Blokchain Developer)
 Web 3 enthusiast and fond to mark my traces in development and engineering field of Blockchain. Being working with the Blockchain professionals, I learnt, practiced and developed smart contracts for Flow Blockchain with minimal front end and back end. I am a problem solver who always thinks about how to solve real-life problems using high-end technology. I am committed to making society free from problems by making every possible business with inherent features – Transparency, Incentivization & Decision-making rights.
 
 ![masterEye GitHub stats](https://github-profile-trophy.vercel.app/?username=masterEye-07)
@@ -26,5 +27,6 @@ Web 3 enthusiast and fond to mark my traces in development and engineering field
 
 ![masterEye GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masterEye-07&theme=vue)
 
-Feel free to reach me out on the [LinkedIn](https://www.linkedin.com/in/muhammad-fahim-asim//). And if not available, email me I'll contact you asap.!
+Feel free to reach me out on the [LinkedIn](https://www.linkedin.com/in/muhammad-fahim-asim//). And if not available, email me I'll contact you ASAP.
+
 This is my CV which was last updated on `July 23rd, 2022`.
