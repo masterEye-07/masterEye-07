@@ -33,7 +33,6 @@ Feel free to reach out on the [LinkedIn](https://www.linkedin.com/in/muhammad-fa
 ![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=masterEye-07)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masterEye-07)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={username})
 
 This is my CV which was last updated on `July 23rd, 2022`.
