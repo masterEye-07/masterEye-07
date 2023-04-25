@@ -9,7 +9,7 @@
 [![masterEye Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/mfahimasim@gmail.com)
               
 ### Assalamu Alaikum reader 👋 I'm Muhammad Fahim Asim (Blokchain Developer)
-Web 3 enthusiast and fond to mark my traces in development and engineering field of Blockchain. Being working with the Blockchain professionals, I learnt, practiced and developed smart contracts for Flow Blockchain with minimal front-end and back end. I am a problem solver who always thinks about how to solve real-life problems using high-end technology. I am committed to making society free from problems by making every possible business with inherent features – Transparency, Incentivization & Decision-making rights.
+Web 3 enthusiast and fond to mark my traces in development and engineering field of Blockchain. Being working with the Blockchain professionals, I learnt, practiced and developed smart contracts for Flow Blockchain with minimal front-end and back-end. I am a problem solver who always thinks about how to solve real-life problems using high-end technology. I am committed to making society free from problems by making every possible business with inherent features – Transparency, Incentivization & Decision-making rights.
 
 ![masterEye GitHub stats](https://github-profile-trophy.vercel.app/?username=masterEye-07)
 
